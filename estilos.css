@@ -1,0 +1,27 @@
+.body{
+   background-image: url(img.fondo.jpg);
+}
+.container{
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+}   
+.fieldset{
+    margin-bottom: 10px;
+    
+}
+.img{
+    margin: 5px;
+    border: solid 6px black;
+}
+.legend{
+    border: solid 1px violet;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: lightblue;
+}
+.div{
+    background-color: sandybrown;
+}
